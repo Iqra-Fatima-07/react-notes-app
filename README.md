@@ -1,22 +1,24 @@
-# React Notes App
-By: Payden Dyer
+React Notes App
+By: Iqra Fatima
 
-Web App that can add and delete notes
+Web App that allows users to add, delete, and search notes
+https://github.com/Iqra-Fatima-07/react-notes-app
 
-https://paydendyer.github.io/react-notes-app
-## Technology Used:
-1. React.js
-2. CSS Grid
-3. Git
+Technology Used:
+React.js
+CSS Grid
+Git
 
-## Description of Application:
-This is a web app built with React that can save and delete notes to the computer's local storage. It features a search bar and a dark mode toggler. Tutorial from: https://www.youtube.com/watch?v=8KB3DHI-QbM&t=191
+Description of Application:
+This is a web app built with React that lets users save, delete, and search notes using the browser's local storage. It features a search bar and a dark mode toggle. Fully customized and deployed by Iqra Fatima.
 
-## Setup Instructions
-After cloning the respository, run npx start in the terminal
+Setup Instructions
+After cloning the repository, run:
+npm install
+npm start
 
-## Known Bugs:
+Known Bugs:
 None
 
-## License
-Payden Dyer 2/14/2022
+License
+Iqra Fatima © 2025
